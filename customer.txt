@@ -1,0 +1,6 @@
+neri,123, VIP
+max,456, Gold
+mark,789, Guest
+john,pwd1234, VIP
+mary,pw!51Df, Gold
+fred,qwUx7d4, Guest
